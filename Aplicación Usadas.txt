@@ -1,0 +1,4 @@
+python - 3.12.3
+xampp - 8.2.12
+pycharm professional - 2024.1
+Visual Paradigm CE - 17.1.20240307

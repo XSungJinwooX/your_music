@@ -409,3 +409,5 @@ $RECYCLE.BIN/
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
 /.idea/your_music.iml
+/.your_music.vpp.lck
+/your_music.vpp.bak_000f
